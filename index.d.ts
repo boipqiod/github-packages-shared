@@ -1,0 +1,1 @@
+export declare function sharedTest(a: string): string;
